@@ -1,7 +1,6 @@
-## Hi there 👋
+## oi meu nome e andrey✌
+estou comecando a entrar no mundo do basquete
 
-<!--
-**andreyaugustotiburcio/andreyaugustotiburcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![]https://media1.tenor.com/m/90zFgiUQBHQAAAAC/michael-jordan-nba.gif
